@@ -21,7 +21,7 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4cc9f0&height=120&section=footer"/>j
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4cc9f0&height=120&section=footer"/>
 
 
 
