@@ -13,7 +13,7 @@
   
   ### Studying in this moment:
   
-  Lógica de programação em C#
+  Programação Orientada a Objetos em C#
   
 </div>
 
