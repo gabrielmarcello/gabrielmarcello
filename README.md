@@ -13,7 +13,7 @@
   
   ### Studying in this moment:
   
-  Programação Orientada a Objetos em C#
+  AWS Cloud Computing 
   
 </div>
 
