@@ -12,7 +12,8 @@
 
   
   ### Studying in this moment:
-  
+
+  Análise e Desenvolvimento de Sistemas - FIAP
   AWS Cloud Computing 
   
 </div>
